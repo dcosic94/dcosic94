@@ -1,7 +1,7 @@
 # Hi there! I'm Domagoj! 👋🏼🧑🏻
 # Digital marketing specialist who is currently exploring the world of Front End development.
 
-<img src="https://github-readme-stats.vercel.app/api?username=dcosic94&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=dcosic94&count_private=true&show_icons=true&theme=dracula" />
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
