@@ -9,4 +9,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcosic94&layout=compact)]
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dcosic94&repo=github-readme-stats)]
