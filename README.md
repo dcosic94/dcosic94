@@ -7,4 +7,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcosic94&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcosic94&layout=compact)]
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dcosic94&repo=github-readme-stats)]
